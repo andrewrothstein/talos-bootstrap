@@ -1,0 +1,4 @@
+---
+- name: andrewrothstein.kubectl
+- name: andrewrothstein.talos
+- name: andrewrothstein.cluster_api
